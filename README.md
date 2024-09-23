@@ -17,12 +17,12 @@ The New York Times Clone is a web application that mimics the layout and functio
 - [Vanta.js] for background animations
 - New York Times API
 
-##Usage
+## Usage
 Upon loading the application, you will see a beautiful background animation.
 The main menu allows you to select different news categories.
 Click on any article title to read the full article on the New York Times website.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have suggestions for improvements or features, please create an issue or submit a pull request.
 
 ##License
