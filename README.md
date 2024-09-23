@@ -25,6 +25,6 @@ Click on any article title to read the full article on the New York Times websit
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or features, please create an issue or submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
