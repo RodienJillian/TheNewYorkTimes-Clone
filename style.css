@@ -241,7 +241,7 @@ footer img {
 }
 
 .scroll-to-top img {
-    width: 90px; 
+    width: 80px; 
     height: auto;
     transition: opacity 0.3s ease;
 }
@@ -333,11 +333,11 @@ footer img {
 
 @media screen and (min-width: 901px) {
     .scroll-to-top img {
-        width: 120px; 
+        width: 90px; 
     }
 
     #article-container {
-        grid-template-columns: repeat(3, 1fr); 
+        grid-template-columns: repeat(4, 1fr); 
     }
 
     .menu-icon {
@@ -365,7 +365,7 @@ footer img {
     }
 
     .menu ul li {
-        padding: 10px 20px; 
+        padding: 0 10px; 
         margin: 0;
     }
 
@@ -377,8 +377,8 @@ footer img {
         position: relative; 
         color: #000; 
         text-decoration: none;
-        padding: 10px 15px;
-        font-size: 22px;
+        padding: 0 15px;
+        font-size: 18px;
         transition: color 0.3s ease, text-shadow 0.3s ease; 
     }
 
@@ -400,19 +400,19 @@ footer img {
 
     .logo {
         order: 2; 
-        height: 80px; 
+        height: 60px; 
         padding: 0 3rem;
     }
 
     .date {
         order: 3; 
-        font-size: 20px;
+        font-size: 15px;
         padding: 0 3rem;
         margin:0;
     }
 
     main {
-        margin: 6.5rem 0;
+        margin: 5.5rem 0;
     }
 
     .overlay-content {
@@ -420,36 +420,32 @@ footer img {
     }
 
     .overlay-content img {
-        height: 10rem;
+        height: 7rem;
     }
 
     .overlay-content p {
-        font-size: 20px;
-        max-width: 500px;
+        font-size: 16px;
+        max-width: 400px;
     }
 
     .section-header h2 {
-        font-size: 35px;
+        font-size: 25px;
     }
 
     .article h2 {
-        font-size: 24px;
+        font-size: 18px;
     }
 
     .article p {
-        font-size: 20px;
-    }
-
-    .article a {
         font-size: 16px;
     }
 
     footer {
-        font-size: 20px;
+        font-size: 15px;
         line-height: 1.2;
     }
 
     footer img {
-        width: 160px;
+        width: 120px;
     }
 }
