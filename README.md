@@ -3,7 +3,7 @@
 ## Introduction
 The New York Times Clone is a web application that mimics the layout and functionality of the New York Times website. It fetches news articles using the New York Times API, providing users with access to the latest news across various categories such as Arts, Science, US, and World.
 
-You can view the project at the following link: [The New York Times Clone](https://rodienjillian.github.io/TheNewYorkTimes-Clone/).
+You can view the project at the following link: [The New York Times Clone](https://rodienjillian.github.io/NYTimes/).
 
 
 ## Features
